@@ -1,5 +1,4 @@
-#include "application.h"
-#include "tb6612fng.h"
+#include "tb6612fng-particle.h"
 
 /**
  * Constructor if you're only using 1 channel of the TB6612FNG.

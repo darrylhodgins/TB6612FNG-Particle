@@ -1,5 +1,7 @@
-#ifndef TB6612FNG_H
-#define TB6612FNG_H
+#ifndef TB6612FNG_PARTICLE_H
+#define TB6612FNG_PARTICLE_H
+
+#include "application.h"
 
 #define TB6612FNG_CHANNEL_A 0
 #define TB6612FNG_CHANNEL_B 1
